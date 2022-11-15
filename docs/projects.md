@@ -3,12 +3,19 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+Video Game Development:
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+Treasured Cove:
+![TreasuredCove](https://github.com/TreasuredQuartz/TreasuredCove)
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+Character Concepts:
 
-![Add alternate text for image](./assets/rosemary.png)
+Overwatch:
+![Creed](./pages/en/characters/overwatch/Creed.html)
+![Waylen](./pages/en/characters/overwatch/Waylen.html)
+
+Brave Frontier:
+![Xeldur](./pages/en/characters/bravefrontier/Xeldur.html)
+![OriginOfEvil](./pages/en/characters/bravefrontier/OriginOfEvil.html)
+![CrimsonMetallicDragon](./pages/en/characters/bravefrontier/CrimsonMetallicDragon.html)
+![MythicalDemonFrost](./pages/en/characters/bravefrontier/MythicalDemonFrost.html)
